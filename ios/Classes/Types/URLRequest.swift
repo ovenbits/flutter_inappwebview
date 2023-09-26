@@ -5,6 +5,7 @@
 //  Created by Lorenzo Pichilli on 19/02/21.
 //
 
+import Flutter
 import Foundation
 
 extension URLRequest {

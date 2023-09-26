@@ -5,6 +5,7 @@
 //  Created by Lorenzo Pichilli on 01/02/21.
 //
 
+import Flutter
 import Foundation
 import WebKit
 

@@ -5,6 +5,7 @@
 //  Created by Lorenzo Pichilli on 29/10/2019.
 //
 
+import Flutter
 import Foundation
 
 class CredentialDatabase: NSObject, FlutterPlugin {

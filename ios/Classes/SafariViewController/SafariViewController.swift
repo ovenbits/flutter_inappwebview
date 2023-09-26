@@ -5,6 +5,7 @@
 //  Created by Lorenzo on 25/09/18.
 //
 
+import Flutter
 import Foundation
 import SafariServices
 

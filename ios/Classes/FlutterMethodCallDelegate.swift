@@ -5,6 +5,7 @@
 //  Created by Lorenzo Pichilli on 15/12/2019.
 //
 
+import Flutter
 import Foundation
 
 public class FlutterMethodCallDelegate: NSObject {

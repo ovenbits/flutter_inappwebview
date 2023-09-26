@@ -5,6 +5,7 @@
 //  Created by Lorenzo Pichilli on 10/03/21.
 //
 
+import Flutter
 import Foundation
 
 public class WebMessageChannel : FlutterMethodCallDelegate {
